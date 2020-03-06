@@ -1,0 +1,22 @@
+body {
+  font-family:"Arial", sans-serif;    
+  font-size: small;   
+  margin: 0; 
+  padding: 0;
+  height: 100%;
+}
+
+.buttons {
+  margin: 11px 4px;    
+  padding: 0 16px; /*paddin: top/bottom left/right;, mesmo para margin*/
+  border: 1px solid #f2f2f2;/*border: width type color;*/
+  border-radius: 4px; /*curva cantos borda*/
+  line-height: 27px;
+  height: 48px;
+  width: 188px;
+  background-color: #f2f2f2; 
+  font-size: 14px;
+  color: #262626;
+  
+  
+}
